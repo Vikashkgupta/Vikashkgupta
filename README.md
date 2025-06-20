@@ -83,11 +83,33 @@
 </p>
 
 ---
+## 📫 Connect with Me
 
-## 📫 Contact Me
+<table>
+  <tr>
+    <td align="center">
+      <a href="mailto:vikashkumargupta1000@gmail.com" title="Gmail">
+        <img src="https://img.icons8.com/fluency/48/gmail.png" width="35" alt="Gmail"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Vikashkgupta" title="GitHub">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" alt="GitHub"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://linkedin.com/in/vikash-kumar-gupta-505899295" title="LinkedIn">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" alt="LinkedIn"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://instagram.com/_vikashkgupta" title="Instagram">
+        <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="35" alt="Instagram"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikashkumargupta1000@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vikashkgupta)
 
 ---
 
