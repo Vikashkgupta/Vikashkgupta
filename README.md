@@ -2,7 +2,7 @@
 <h3 align="center">MERN Stack Developer | B.Tech AIML Student | Full-Stack Web Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=440&lines=Code.+Build.+Deploy.;React+%7C+Node.js+%7C+Express.js+%7C+MongoDB;Learning+and+Building+Web+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=440&lines=Code.+Build.+Deploy.;RReact+%7C+Node.js+%7C+Express.js+%7C+MongoDB;Learning+and+Building+Web+Applications" alt="Typing SVG" />
 </p>
 
 ---
